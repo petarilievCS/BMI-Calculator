@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'input_page.dart';
+import '../screens/input_page.dart';
 
 const margin = 15.0;
 const borderRadius = 10.0;
