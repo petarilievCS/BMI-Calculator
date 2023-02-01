@@ -1,16 +1,8 @@
-# bmi_calculator
+# BMI Calculator
 
-BMI Calculator.
+Cross-platform application with custom UI that lets the user calculate their BMI and get specific advice, depending on their metrics. The application was developed using Dart and Flutter.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/90746623/216155721-661ac39b-4269-4e0d-a823-8dd806f0c198.png" width="296" height="527"/><img src="https://user-images.githubusercontent.com/90746623/216155727-477bc120-4c64-4d33-8b01-7e39d1535eee.png" width="296" height="527"/> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
